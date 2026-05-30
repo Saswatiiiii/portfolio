@@ -1,5 +1,8 @@
 # 👩‍💻 Saswati's Portfolio
 
+🌐 Live Portfolio:
+https://portfolio-bay-tau-3f6daknrm2.vercel.app
+
 > Turning ideas into impactful applications.
 
 A modern and responsive portfolio website built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**.
