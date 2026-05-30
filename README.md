@@ -1,16 +1,28 @@
-# React + Vite
+# 👩‍💻 Saswati's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Turning ideas into impactful applications.
 
-Currently, two official plugins are available:
+A modern and responsive portfolio website built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Featured Projects
 
-## React Compiler
+- 🚦 **CityPulse** – Smart City Monitoring Platform
+- 🎭 **FaceAttend** – Face Recognition Attendance System
+- 📢 **Class Alert** – Automated SMS Reminder System
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/Saswatiiiii
+- LinkedIn: https://www.linkedin.com/in/saswatii
+- Instagram: https://www.instagram.com/sasswatii___
+
+---
+
+⭐ Built with passion, creativity, and lots of coffee.
