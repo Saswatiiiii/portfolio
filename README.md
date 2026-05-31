@@ -1,7 +1,7 @@
 # 👩‍💻 Saswati's Portfolio
 
 🌐 Live Portfolio:
-https://portfolio-bay-tau-3f6daknrm2.vercel.app
+https://saswati-portfolio.vercel.app/
 
 > Turning ideas into impactful applications.
 
